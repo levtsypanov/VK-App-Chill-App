@@ -1,0 +1,2 @@
+.sound-container{display:flex;align-items:center;justify-content:center;flex-direction:column}body .sound-img,body[scheme=bright_light] .sound-img{-webkit-filter:invert(1);filter:invert(1)}body[scheme=space_gray] .sound-img{-webkit-filter:none;filter:none}
+/*# sourceMappingURL=main.cef8dcd3.chunk.css.map */

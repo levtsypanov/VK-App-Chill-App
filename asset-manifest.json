@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cef8dcd3.chunk.css",
+    "main.js": "/static/js/main.571b1471.chunk.js",
+    "main.js.map": "/static/js/main.571b1471.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb40d168.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb40d168.js.map",
+    "static/css/2.814df5ce.chunk.css": "/static/css/2.814df5ce.chunk.css",
+    "static/js/2.c9e18d2c.chunk.js": "/static/js/2.c9e18d2c.chunk.js",
+    "static/js/2.c9e18d2c.chunk.js.map": "/static/js/2.c9e18d2c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3bfd8ca7c68a99073ae8d9b1aab5f5d1.js": "/precache-manifest.3bfd8ca7c68a99073ae8d9b1aab5f5d1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.814df5ce.chunk.css.map": "/static/css/2.814df5ce.chunk.css.map",
+    "static/css/main.cef8dcd3.chunk.css.map": "/static/css/main.cef8dcd3.chunk.css.map",
+    "static/media/beach.png": "/static/media/beach.a43afe4b.png",
+    "static/media/bird.png": "/static/media/bird.fc2a9297.png",
+    "static/media/catpurr.png": "/static/media/catpurr.9930d3d3.png",
+    "static/media/drop.png": "/static/media/drop.a6b3e8ed.png",
+    "static/media/fire.png": "/static/media/fire.049918eb.png",
+    "static/media/forest.png": "/static/media/forest.45780598.png",
+    "static/media/leaves.png": "/static/media/leaves.b6d17c48.png",
+    "static/media/rain.png": "/static/media/rain.1e3b5c5b.png",
+    "static/media/river.png": "/static/media/river.b35b29cf.png",
+    "static/media/sheep.png": "/static/media/sheep.8d2769b4.png",
+    "static/media/thunder.png": "/static/media/thunder.4ab42539.png"
+  }
+}
